@@ -1,9 +1,4 @@
 import sys
-# from enum import Enum
-
-# class UtilFlag(Enum):
-#     PRINT = 1
-#     ERRORS = 2
 
 class Util():
     __instance = None
